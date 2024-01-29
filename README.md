@@ -45,5 +45,5 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 Terima kasih atas antusiasme Anda menantikan kehadiran user interface ini! 🙌
 
 <div align="center">
-  &copy; 2023 [Naufal FIFA]
+  &copy; 2024 [Naufal FIFA]
 </div>
